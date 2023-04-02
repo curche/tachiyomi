@@ -794,7 +794,7 @@
 
     <!-- Crash screen -->
     <string name="crash_screen_title">Whoops!</string>
-    <string name="crash_screen_description">%s ran into an unexpected error. We recommend you use the button to dumb a crashlog file, and share it to our support channel on Discord...</string>
+    <string name="crash_screen_description">%s ran into an unexpected error. We recommend you use the button to dumb a crashlog file, and share it to our support channel on Discord.</string>
     <string name="crash_screen_restart_application">Restart the application</string>
 
     <!-- Stats screen -->
